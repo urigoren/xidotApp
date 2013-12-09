@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.xidot.mobile"
+        version   = "1.0.0">
+
+    <name>Xidot חידות מתמטיות</name>
+
+    <description>
+        חידות לאנשים שלא פוחדים ממספרים: חידות מתמטיות, לוגיקה, שאלות מראיונות עבודה, תיכנות, אלגוריתמיקה.
+    </description>
+
+    <author href="http://www.xidot.co.il" email="uri@xidot.co.il">
+        Uri Goren
+    </author>
+	<preference name="permissions" value="none"/>
+
+    <preference name="phonegap-version" value="3.0.0" /> 
+	<access origin="http://www.xidot.co.il" subdomains="true"/>
+</widget>
