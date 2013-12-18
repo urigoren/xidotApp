@@ -11,7 +11,9 @@
     <description>
         חידות לאנשים שלא פוחדים ממספרים: חידות מתמטיות, לוגיקה, שאלות מראיונות עבודה, תיכנות, אלגוריתמיקה.
     </description>
-
+	
+	<icon src="icon.png" />
+	
     <author href="http://www.xidot.co.il" email="uri@xidot.co.il">
         Uri Goren
     </author>
